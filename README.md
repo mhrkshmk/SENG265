@@ -1,5 +1,5 @@
 # SENG265 - Software Development Methods
-Coursework for SENG265 UVic (Winter 2023)
+Coursework for SENG 265 UVic (Winter 2023)
 
 This course focused on systematic methods for designing, coding, testing and documenting medium-sized programs.
 Some topics covered include:
